@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Flutter and iOS open-source projects.
 - 🤔 I’m looking for help with optimizing app performance and UI/UX design tips.
 - 💬 Ask me about Flutter, iOS development, SAT preparation, and tech career planning.
-- 📫 How to reach me: obidjonjoraboyev@example.com (or LinkedIn/GitHub profile link)
+- 📫 How to reach me: obidjonn007@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once created a Flutter package called `photo_opener`!
 
