@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ObidjonJoraboyev/ObidjonJoraboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #           Welcome to Obidjon Joraboyev's profile 
 
+- 🔭 I’m currently working on improving my Flutter skills and building mobile apps.
+- 🌱 I’m currently learning advanced SAT Reading & Writing techniques and iOS development.
+- 👯 I’m looking to collaborate on Flutter and iOS open-source projects.
+- 🤔 I’m looking for help with optimizing app performance and UI/UX design tips.
+- 💬 Ask me about Flutter, iOS development, SAT preparation, and tech career planning.
+- 📫 How to reach me: obidjonjoraboyev@example.com (or LinkedIn/GitHub profile link)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once created a Flutter package called `photo_opener`!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2400&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
 
 
