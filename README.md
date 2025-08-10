@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&lines=Hello+World!;Welcome+to+my+GitHub;Enjoy+your+stay!)](https://git.io/typing-svg)
+
+
 ![GitHub Snake Light](https://github.com/ObidjonJoraboyev/snk/blob/output/github-contribution-grid-snake.svg)
