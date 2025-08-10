@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to Obidjon Joraboyev's profile <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.gif" width="35px">
+#  Welcome to Obidjon Joraboyev's profile file:///Users/obidjonjoraboyev/Downloads/Welcome.webm
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2400&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
 
 
 ![GitHub Snake Light](https://github.com/ObidjonJoraboyev/snk/blob/output/github-contribution-grid-snake.svg)
