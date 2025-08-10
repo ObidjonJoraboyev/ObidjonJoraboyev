@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #           Welcome to Obidjon Joraboyev's profile 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2400&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on improving my Flutter skills and building mobile apps.
 - 🌱 I’m currently learning advanced SAT Reading & Writing techniques and iOS development.
 - 👯 I’m looking to collaborate on Flutter and iOS open-source projects.
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: obidjonjoraboyev@example.com (or LinkedIn/GitHub profile link)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once created a Flutter package called `photo_opener`!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2400&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
 
 
 ![GitHub Snake Light](https://github.com/ObidjonJoraboyev/snk/blob/output/github-contribution-grid-snake.svg)
