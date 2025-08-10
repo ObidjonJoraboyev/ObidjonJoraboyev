@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Welcome to Obidjon Joraboyev's profile file:///Users/obidjonjoraboyev/Downloads/Welcome.webm
+#           Welcome to Obidjon Joraboyev's profile 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2400&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
 
