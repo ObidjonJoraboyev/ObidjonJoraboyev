@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to Obidjon Joraboyev's profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=500&color=4cbb17&lines=I+am+a+Flutter+Developer;I+build+mobile+apps;Love+Open+Source)](https://git.io/typing-svg)
 
 
