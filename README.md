@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my Flutter skills and building mobile apps.
 - 🌱 I’m currently learning advanced SAT Reading & Writing techniques and iOS development.
-- 👯 I’m looking to collaborate on Flutter and iOS open-source projects.
+- 👯 I’m looking to collaborate on Flutter open-source projects.
 - 🤔 I’m looking for help with optimizing app performance and UI/UX design tips.
 - 💬 Ask me about Flutter, SAT/IELTS preparation, and tech career planning.
 - 📫 How to reach me: obidjonn007@icloud.com
