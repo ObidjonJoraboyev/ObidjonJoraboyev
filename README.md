@@ -21,20 +21,9 @@ Hi! I'm **Obidjon Joraboyev**, a **Flutter developer**, lifelong learner, and mo
 
 ---
 
-## 🚀 Projects & Contributions
-Here are some highlighted projects from my GitHub portfolio:
-
-- **[Weather App](#)** – A Flutter-based weather application with real-time API integration and sleek UI.  
-- **[Photo Opener](#)** – A utility app demonstrating Flutter animations and asynchronous programming.  
-- **[Portfolio App](#)** – My personal app to showcase projects, skills, and contact info.  
-
-*(Check my pinned repositories for more projects.)*
-
----
-
 ## 📫 Get in Touch
 - 🌐 **Linktree:** [https://linktr.ee/jurabaev](https://linktr.ee/jurabaev)  
-- 📧 **Email:** your-email@example.com *(replace with your preferred email)*  
+- 📧 **Email:** obidjonn007@icloud.com
 
 ---
 
@@ -45,6 +34,3 @@ Here are some highlighted projects from my GitHub portfolio:
 
 ## 📊 GitHub Stats
 ![GitHub Snake Light](https://github.com/ObidjonJoraboyev/snk/blob/output/github-contribution-grid-snake.svg)
-
----
-
