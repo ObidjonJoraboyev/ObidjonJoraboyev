@@ -14,7 +14,7 @@ Hi! I'm **Obidjon Joraboyev**, a **Flutter developer**, lifelong learner, and mo
 ---
 
 ## 🛠 Skills & Tools
-**Languages:** C (Intermediate), Python (Intermediate), Dart (Proficient),
+**Languages:** C (Intermediate), Python (Intermediate), Dart (Proficient)
 **Frameworks & Libraries:** Flutter, Firebase  
 **Tools & Platforms:** Git, GitHub, VS Code, Figma  
 **Other:** REST APIs, SQLite, JSON, UI/UX design basics  
