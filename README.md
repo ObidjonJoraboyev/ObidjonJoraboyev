@@ -4,11 +4,7 @@
 
 
 ## 🔹 About Me
-Hi! I'm **Obidjon Joraboyev**, a **Flutter developer**, lifelong learner, and mobile app enthusiast. I love creating **beautiful and functional apps** while experimenting with **unique ideas**. I aim to combine **clean code, modern UI/UX, and efficient architecture** in every project I work on.  
-
-- 🌱 Currently exploring **advanced Flutter techniques**, **backend integration**, and **state management solutions**  
-- 💻 Passionate about **cross-platform development** and **problem-solving through code**  
-- 🎯 Committed to **continuous learning** and growth in software engineering  
+Hi! I'm **Obidjon Djurabayev**, a **Flutter developer**, lifelong learner, and mobile app enthusiast. I love creating **beautiful and functional apps** while experimenting with **unique ideas**. I aim to combine **clean code, modern UI/UX, and efficient architecture** in every project I work on.  
 
 
 ## 🛠 Skills & Tools
